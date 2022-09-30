@@ -724,3 +724,7 @@ footer {
     padding: 5px 10px;
   }
 }
+
+.project-info li{
+  text-align: left;
+}
