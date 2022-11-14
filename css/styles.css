@@ -728,3 +728,7 @@ footer {
 .project-info li{
   text-align: left;
 }
+
+p{
+  margin-bottom:2rem;
+}
