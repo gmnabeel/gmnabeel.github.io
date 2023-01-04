@@ -1,7 +1,7 @@
-# Nabeel G M's Dev Portfolio
+# Nabeel G M's Dev Portfolio (Old Vesion)
 
 Features
 - Includes My Education details, Experience, Resume and Contact Information
 - Fully Interactive, Optimized for mobile devices
 
->Made using Ryan Fitzgerald <a href= "https://github.com/RyanFitzgerald/" >Dev Portfolio Template </a>
+>Check New Version of Site:  <a href= "https://gmnabeel.github.io/" >New Portfolio Site </a>
